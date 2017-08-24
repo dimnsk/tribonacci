@@ -1,0 +1,7 @@
+app:
+  build: .
+  container_name: tribonacci
+  volumes:
+    - ./src:/app
+  ports:
+    - 8081:8081

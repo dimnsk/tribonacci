@@ -1,0 +1,5 @@
+.idea
+nbproject
+.project
+.DS_Store
+*.log
